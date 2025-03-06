@@ -1,0 +1,30 @@
+.container {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.info-rows {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.columns {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+button {
+    margin: 10px;
+}
